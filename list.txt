@@ -1,0 +1,11 @@
+HELP       - Shows some available commands.
+LOOK or L  - Lets you see the map/room again.
+QUESTS     - Lists all your active and completed quests.
+INV        - Lists all the items in your inventory.
+CHECK      - Lets you see an item (or yourself) in more detail.
+NORTH or N - Moves you to the north.
+SOUTH or S - Moves you to the south.
+EAST or E  - Moves you to the east.
+WEST or W  - Moves you to the west.
+QUIT       - Ends the adventure.
+

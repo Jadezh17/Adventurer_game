@@ -1,0 +1,9 @@
+Entrance > NORTH > Foyer
+Entrance > EAST > Dead End
+Foyer > NORTH > Courtyard
+Foyer > EAST > Parlour
+Foyer > SOUTH > Entrance
+Foyer > WEST > Workshop
+Courtyard > SOUTH > Foyer
+Parlour > WEST > Foyer
+Workshop > EAST > Foyer
